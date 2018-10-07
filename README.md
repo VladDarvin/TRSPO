@@ -1,2 +1,2 @@
 # TRSPO
-Llabratory works for TRSPO subject.
+Labratory works for TRSPO subject.
